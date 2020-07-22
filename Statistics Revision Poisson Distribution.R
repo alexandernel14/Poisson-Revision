@@ -1,4 +1,4 @@
-# Alexadner Nel Poisson Revision, solving problems in R.
+# Alexander Nel Poisson Revision, solving problems in R.
 
 # Supposed the number of people entering a building follows a Poisson Distribuition with rate parameter 5/minute
 # For all of the examples below assume that X ~ Po(lambda = 5/min)
